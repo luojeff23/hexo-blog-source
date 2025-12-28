@@ -3,17 +3,17 @@
 ## Source: https://github.com/hexojs/hexo/
 
 # Site
-title: Hexo
-subtitle: ''
-description: ''
-keywords:
-author: John Doe
+title: Jeff's 博客
+subtitle: 文章、教程、关于
+description: 记录知识与教程，我的来时路
+keywords: vibe coding,blog,记录,树洞,NSFW,Python,cloudflare,羊毛,开源,机场
+author: Jeff
 language: zh-CN
 timezone: ''
 
 # URL
 ## Set your site url here. For example, if you use GitHub Page, set url as 'https://username.github.io/project'
-url: https://your-blog.pages.dev  # 临时占位符，部署到 Cloudflare Pages 后更新
+url: https://hexo-blog-bbs.pages.dev
 permalink: :year/:month/:day/:title/
 permalink_defaults:
 pretty_urls:
